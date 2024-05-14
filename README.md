@@ -2,17 +2,11 @@
 
 This is a list of modules that you can add into your own PrestaShop.
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
 
 
 ## Open source projects
 
-* [202ecommerce/PayPal]([202ecommerce/paypal (github.com)](https://github.com/202ecommerce/paypal)) This is a complete PayPal integration (supports 8.x). :warning: Warning: this claims to be an official "module" from PayPal, but no evidence is provided of it being official.
+* [202ecommerce/PayPal](https://github.com/202ecommerce/paypal) This is a complete PayPal integration (supports 8.x). :warning: Warning: this claims to be an official "module" from PayPal, but no evidence is provided of it being official.
 * 
 
 
